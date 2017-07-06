@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AddressIP_Application:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AddressIP_Application_jar</output-path>
+    <root id="archive" name="AddressIP_Application.jar">
+      <element id="module-output" name="AddressIP_Application" />
+    </root>
+  </artifact>
+</component>
